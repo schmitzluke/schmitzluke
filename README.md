@@ -23,8 +23,8 @@ I'm currently learning and improving my skills in:
 - **Languages:** C/C++, Java, SQL, HTML, CSS
 
 ## 📈 GitHub Stats
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=crypticbrix&show_icons=true&theme=default)](https://github.com/crypticbrix)
+[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=schmitzluke&show_icons=true&theme=default)](https://github.com/schmitzluke)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crypticbrix&layout=compact)](https://github.com/crypticbrix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmitzluke&layout=compact)](https://github.com/schmitzluke)
 
 Thanks for visiting! Feel free to follow my journey as I dive deeper into the world of computer science and software development!
