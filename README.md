@@ -12,8 +12,5 @@ Zurzeit arbeite ich an einem **Dateisystem-Simulator (FAT)** im Rahmen eines Uni
 * **In Einarbeitung:** JavaScript & Backend Web Development.
 * **Tools & OS:** VS Code, macOS, Linux (Ubuntu).
 
-### Interessen
-Neben dem Studium beschäftige ich mich mit Calisthenics und Kraftsport.
-
 ---
 [LinkedIn Profil](https://www.linkedin.com/in/lukeschmitz/)
